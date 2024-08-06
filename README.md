@@ -1,6 +1,7 @@
 # evolucao-de-aprendizagem
 
 1-O que eu já sei sobre os assuntos que serão abordados nesse módulo?
+
 a principio eu não sabia de nada sobre os conteudos desse modulo, tive contato com os conteudos a primeira vez.
 
 2-O que quero aprender sobre os assuntos que serão abordados nesse módulo?
